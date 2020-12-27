@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "name": "Nikon DSLR Camera",
+    "img": "https://picsum.photos/200",
+    "category": "camera",
+    "price": 25,
+    "status": "Hot"
+  },
+  {
+    "id": 2,
+    "name": "Samsung White Handfree",
+    "img": "https://picsum.photos/200",
+    "category": "handfree",
+    "price": 45,
+    "status": "New"
+  },
+  {
+    "id": 3,
+    "name": "Apple AirPods",
+    "img": "https://picsum.photos/200",
+    "category": "handfree",
+    "price": 90,
+    "status": "Hot"
+  },
+  {
+    "id": 4,
+    "name": "Sony LCD",
+    "img": "https://picsum.photos/200",
+    "category": "television",
+    "price": 70,
+    "status": "New"
+  },
+  {
+    "id": 5,
+    "name": "Mini LG Microphone",
+    "img": "https://picsum.photos/200",
+    "category": "microphone",
+    "price": 50,
+    "status": "Hot"
+  },
+  {
+    "id": 6,
+    "name": "Blue Yetti",
+    "img": "https://picsum.photos/200",
+    "category": "microphone",
+    "price": 25,
+    "status": "Hot"
+  }
+]
